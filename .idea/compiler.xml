@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="dongyimai-user-service" />
+        <module name="dongyimai-manager-web" />
+        <module name="dongyimai-sellergoods-service" />
+        <module name="dongmai-page-service" />
+        <module name="dongyimai-content-interface" />
+        <module name="dongyimai_mail_service" />
+        <module name="dongyimai-portal-web" />
+        <module name="dongyimai-common" />
+        <module name="dongyimai-pojo" />
+        <module name="dongyimai-cart-web" />
+        <module name="dongyimai-user-interface" />
+        <module name="dongyimai-dao" />
+        <module name="dongyimai-search-interface" />
+        <module name="dongyimai-page-web" />
+        <module name="dongyimai-sellergoods-interface" />
+        <module name="dongyimai-search-web" />
+        <module name="dongyimai-solr-util" />
+        <module name="dongyimai-page-interfaces" />
+        <module name="dongyimai_sms_service" />
+        <module name="dongyimai-user-web" />
+        <module name="dongyimai-search-service" />
+        <module name="dongyimai-content-service" />
+        <module name="dongyimai-cart-service" />
+        <module name="dongyimai-cart-interface" />
+        <module name="dongyimai-shop-web" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="dongyima-page-service" target="1.8" />
+      <module name="dongyimai-page-interface" target="1.8" />
+      <module name="dongyimai-page-interfaceuntitled" target="1.8" />
+      <module name="dongyimai-page-service" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
